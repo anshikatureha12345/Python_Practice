@@ -67,8 +67,7 @@ print("The number entered is", num )
 10. Take an integer and print its double.
  
 """
-a = int (input( "Enter the integer "))
-print(a*2)
+
 
 
 
